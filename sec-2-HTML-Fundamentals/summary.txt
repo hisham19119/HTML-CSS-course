@@ -1,12 +1,4 @@
-HTML is a HyperText markup language 
-HTML is considered the structure of ane web-page 
-HTML is not a programming language , it is a scripting language 
-HTML consists of some elements 
-elements consist of    < openning tag >     content    <\closing tag>
-
-
-! + tab >>>> getting the first structure web page quickely .... 
-
+....... 
 <head> ... dose not appear for the browser 
      it contains many other elements ,  firstly
      <title> ... contains the title of your web-page
@@ -45,7 +37,7 @@ structure of the page >>>>
   < article> for the blog post 
   <footer> for the end of the web-page 
   <aside> secondary informations for the main part of the page 
-   
+
 
 
 
