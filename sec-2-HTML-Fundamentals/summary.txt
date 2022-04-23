@@ -1,0 +1,58 @@
+HTML is a HyperText markup language 
+HTML is considered the structure of ane web-page 
+HTML is not a programming language , it is a scripting language 
+HTML consists of some elements 
+elements consist of    < openning tag >     content    <\closing tag>
+
+
+! + tab >>>> getting the first structure web page quickely .... 
+
+<head> ... dose not appear for the browser 
+     it contains many other elements ,  firstly
+     <title> ... contains the title of your web-page
+<body> ..... contains the content of the web-page 
+<h1> ....  means headings  , there are 6 degrees of headings from 1 to 6 , from largest to smallest respectively
+
+comments >>>> <!-- write yourcomment here  -->
+
+markup- text <<<<>>>>>
+<b>  for bold text  ..........  <strong> also for bold >>> semantic HTML
+<i> for italic ..........  <em> lso for bold >>> semantic HTML"emphamsized" 
+.............................................................................................................
+<list> !!! with bullet points & numbered list 
+<ul> un-ordered list 
+        <li> list item 
+<ol> ordered list 
+        <li> list item 
+..................................................................................................
+<img> there is no closing tag  >>>>>>>> attribute 
+    alt=" describes the image"  >>> important for search engine optimization 
+    width =""
+    height =""
+
+<html>
+    lang=" abrevitions of names of langugaes "
+
+<meta> is a data about data 
+     charset =" UTF-8 " >>> is for all langs 
+............................................................
+<links> 
+    <a href= "  link "  target =" _blank " >>>> to open on another page  > 
+.............................................................
+structure of the page >>>>
+  < header > the top part can contain nav and h1 
+    <nav> 
+  < article> for the blog post 
+  <footer> for the end of the web-page 
+  <aside> secondary informations for the main part of the page 
+   
+
+
+
+
+
+
+
+
+
+
